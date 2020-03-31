@@ -1,0 +1,4 @@
+
+run_ica.sh: line 83: mpiexec: command not found
+run_ica.sh: line 84: mpiexec: command not found
+run_ica.sh: line 85: mpiexec: command not found
